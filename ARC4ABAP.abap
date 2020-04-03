@@ -19,7 +19,7 @@ FUNCTION zarc4_for_abap.
 *======================================================================*
 **______________________A R C 4   F O R   A B A P______________________*
 **=====================================================================*
-** Author            : AJITH K E                                       *
+** Author            : AJ                                              *
 ** Created On        : 28.06.2012                                      *
 ** Objective         : Make a stream cipher ARC4 encryption/decryption *
 **                   :   algorithm                                     *
